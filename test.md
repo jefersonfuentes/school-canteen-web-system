@@ -1,4 +1,4 @@
-<!-- # Notas
+# Notas
 
 Tener en cuenta los siguientes aspectos para el mantenimiento del proyecto.
 
@@ -13,9 +13,9 @@ Tener en cuenta los siguientes aspectos para el mantenimiento del proyecto.
   de código reutilizable. (Recomiendo echarle un vistazo).
 
 - En la carpeta components dentro de Vista se encarga de almacenar los componentes
-  repetitivos en la interfaz. -->
+  repetitivos en la interfaz.
 
-<!-- ## Pendientes
+## Pendientes
 
 - En la pestaña de ajustes, en administración, crear un nuevo item de acordión
   el cual llevará un registro de los periodos, ejemplo (Periodo 2021, Periodo 2022)
@@ -24,4 +24,4 @@ Tener en cuenta los siguientes aspectos para el mantenimiento del proyecto.
   fue solicitada con la intención que los administradores puedan consultar las
   estadísticas de los años anteriores.
 
-- Dar formato a los archivos... -->
+- Dar formato a los archivos... 
