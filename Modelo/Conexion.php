@@ -6,11 +6,7 @@ class Conexion
 
     function Ejecutar($query)
     {
-        //Servidor http://infocovao.xyz:8443/phpMyAdmin/
-        $user = "comebdadm22";
-        $pass = "Qf&b74h24";
-        $db = "comebdadm22";
-
+        
         //Local
         // $user = "root";
         // $pass = "";
